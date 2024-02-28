@@ -1,0 +1,25 @@
+body {
+  background-color: #5fe8ac;
+  color: #335c67;
+}
+h2 {
+  color: rgb(61, 144, 216);
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+body {
+  display: table;
+}
+
+.my-block {
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}
